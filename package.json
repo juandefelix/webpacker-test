@@ -1,0 +1,11 @@
+{
+  "name": "webpacker-test",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.4",
+    "rails-erb-loader": "^5.4.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
